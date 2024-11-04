@@ -1,0 +1,31 @@
+
+/*BEGIN PS4 White Controller Styling*/
+.controller.ds4.white {
+    background-image: url(basewhitegrey_rewkxx.png);
+}
+
+.ds4.white .trigger {
+    background-image: url(triggerswhitegray_rewkxx.png);
+}
+
+.ds4.white .bumper {
+    background-image: url(bumberwhitegray_rewkxx.png);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(startwhitegray_rewkxx.png);
+}
+
+.ds4.white .button {
+    background-image: url(facewhitegray_rewkxx.png);
+}
+
+.ds4.white .stick {
+    background-image: url(stickswhitegray_rewkxx.png);
+}
+
+.ds4.white .face {
+    background-image: url(dpadwhitegray_rewkxx.png);
+}
+
+/*END PS4 White Controller Styling*/
